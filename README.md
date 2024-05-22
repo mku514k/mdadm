@@ -93,3 +93,5 @@ It is released under the terms of the **GNU General Public License version 2** a
 by the **Free Software Foundation**.
 
 This is a modified test message!
+
+This is another test messsage!
