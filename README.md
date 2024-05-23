@@ -91,3 +91,9 @@ workarounds and fixes for legacy issues.
 
 It is released under the terms of the **GNU General Public License version 2** as published
 by the **Free Software Foundation**.
+
+This is a modified test message!
+
+This is another test messsage!
+
+This is yeat another test message!
